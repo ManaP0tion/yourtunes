@@ -1,10 +1,10 @@
-package com.example.yourtunes;
+package com.example.yourtunes_backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class YourtunesApplicationTests {
+class YourtunesBackendApplicationTests {
 
 	@Test
 	void contextLoads() {

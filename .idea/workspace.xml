@@ -35,18 +35,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ManaP0tion"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ManaP0tion&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ManaP0tion/yourtunes.git",
-    "accountId": "1008340a-d8c9-47cb-826b-24da0d811573"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ManaP0tion/yourtunes.git&quot;,
+    &quot;accountId&quot;: &quot;1008340a-d8c9-47cb-826b-24da0d811573&quot;
   }
-}]]></component>
+}</component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="cxbza1n7" />
   </component>
@@ -105,6 +105,7 @@
       <workItem from="1746582795937" duration="1000" />
       <workItem from="1746583103291" duration="104000" />
       <workItem from="1746583503347" duration="215000" />
+      <workItem from="1746584208792" duration="18000" />
     </task>
     <servers />
   </component>
